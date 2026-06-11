@@ -1,0 +1,9 @@
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.1.1
+psutil==5.9.6
+python-ternary==1.0.8
+scipy==1.13.0
+seaborn==0.13.0
+statsmodels==0.14.5
+ternary==0.1

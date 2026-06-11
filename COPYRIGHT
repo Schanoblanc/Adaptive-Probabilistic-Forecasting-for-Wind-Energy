@@ -1,0 +1,13 @@
+Copyright (c) 2026 Tao Shen
+
+This reproducibility package is supplied exclusively for the reproducibility assessment of the manuscript submitted to the International Journal of Forecasting.
+
+The package contains the data, source code, documentation, and supporting materials required to reproduce the results, figures, tables, and experiments reported in the manuscript.
+
+The materials may be accessed, executed, copied, and evaluated by the journal, its editors, and authorised reproducibility assessors solely for the purpose of reproducibility assessment.
+
+Third-party data and materials included in this package remain subject to their original licences and terms of use. In particular, the BMRS data are subject to the Elexon BSC Open Data Licence, a copy of which is included in this package.
+
+Except as expressly permitted above, redistribution, publication, commercial use, incorporation into other software projects, modification, or creation of derivative works is not permitted without the author's prior written consent.
+
+All rights reserved.
